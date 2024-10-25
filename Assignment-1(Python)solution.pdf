@@ -61,7 +61,6 @@ Solution : No, we cannot use keywords as variable names because they are reserve
 Q12. What is indentation? What's the use of indentation in Python?
 Solution : Indentation is the whitespace at the beginning of a line of code. In Python, it is used to define the scope of loops, functions, and classes. It indicates a block of code that belongs together, which is crucial since Python does not use braces for this purpose.
 
-Q13. How can we throw some output in Python?
 Solution : we can use the print() function to display output in Python. For example:
 print("Hello, World!")
 
@@ -176,3 +175,4 @@ for num in numbers:
         continue
     if num % 5 == 0:
         print(num)
+Q13. How can we throw some output in Python?
